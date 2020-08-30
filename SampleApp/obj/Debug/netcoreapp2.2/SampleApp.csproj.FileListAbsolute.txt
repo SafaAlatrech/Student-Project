@@ -1,0 +1,56 @@
+D:\Projet 2020\SampleApp\SampleApp\bin\Debug\netcoreapp2.2\SampleApp.deps.json
+D:\Projet 2020\SampleApp\SampleApp\bin\Debug\netcoreapp2.2\SampleApp.runtimeconfig.json
+D:\Projet 2020\SampleApp\SampleApp\bin\Debug\netcoreapp2.2\SampleApp.runtimeconfig.dev.json
+D:\Projet 2020\SampleApp\SampleApp\bin\Debug\netcoreapp2.2\SampleApp.dll
+D:\Projet 2020\SampleApp\SampleApp\bin\Debug\netcoreapp2.2\SampleApp.pdb
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.csprojAssemblyReference.cache
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.csproj.CoreCompileInputs.cache
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.RazorAssemblyInfo.cache
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.RazorAssemblyInfo.cs
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.AssemblyInfoInputs.cache
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.AssemblyInfo.cs
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.RazorTargetAssemblyInfo.cache
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.dll
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.pdb
+D:\Projet 2020\SampleApp\SampleApp\bin\Debug\netcoreapp2.2\SampleApp.Views.dll
+D:\Projet 2020\SampleApp\SampleApp\bin\Debug\netcoreapp2.2\SampleApp.Views.pdb
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.TagHelpers.input.cache
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.TagHelpers.output.cache
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.RazorCoreGenerate.cache
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.RazorTargetAssemblyInfo.cs
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.Views.pdb
+D:\Projet 2020\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.csproj.CopyComplete
+C:\Users\ESI\Desktop\SampleApp\SampleApp\bin\Debug\netcoreapp2.2\SampleApp.deps.json
+C:\Users\ESI\Desktop\SampleApp\SampleApp\bin\Debug\netcoreapp2.2\SampleApp.runtimeconfig.json
+C:\Users\ESI\Desktop\SampleApp\SampleApp\bin\Debug\netcoreapp2.2\SampleApp.runtimeconfig.dev.json
+C:\Users\ESI\Desktop\SampleApp\SampleApp\bin\Debug\netcoreapp2.2\SampleApp.dll
+C:\Users\ESI\Desktop\SampleApp\SampleApp\bin\Debug\netcoreapp2.2\SampleApp.pdb
+C:\Users\ESI\Desktop\SampleApp\SampleApp\bin\Debug\netcoreapp2.2\SampleApp.Views.dll
+C:\Users\ESI\Desktop\SampleApp\SampleApp\bin\Debug\netcoreapp2.2\SampleApp.Views.pdb
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.csprojAssemblyReference.cache
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.RazorAssemblyInfo.cache
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.RazorAssemblyInfo.cs
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.AssemblyInfoInputs.cache
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.AssemblyInfo.cs
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.TagHelpers.input.cache
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.TagHelpers.output.cache
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.RazorCoreGenerate.cache
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.RazorTargetAssemblyInfo.cache
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.RazorTargetAssemblyInfo.cs
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.Views.pdb
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.dll
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.pdb
+C:\Users\ESI\Desktop\SampleApp\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.csproj.CopyComplete
